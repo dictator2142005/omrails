@@ -16,6 +16,8 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+.DS_Store
+
 
 # Ignore pidfiles, but keep the directory.
 /tmp/pids/*
@@ -30,6 +32,7 @@
 !/tmp/storage/.keep
 
 /public/assets
+
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
